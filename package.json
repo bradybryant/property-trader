@@ -1,7 +1,9 @@
 {
   "name": "monopoly",
   "version": "0.1.0",
-  "private": true,
+  "private": true
+    "homepage": "https://bradybryant.github.io/property-trader",
+,
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.7.3",
